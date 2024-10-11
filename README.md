@@ -19,7 +19,7 @@ The Producer-Consumer problem illustrates the challenge of coordinating the prod
 ## Quicksort Algorithm
 
 ### Description
-The Quicksort algorithm is an efficient sorting algorithm that employs a divide-and-conquer strategy. This implementation replaces the traditional recursive approach with an iterative approach using a stack to manage unsorted sub-arrays. It also uses OpenMP to parallelize the sorting process, allowing multiple threads to work on different segments of the array simultaneously.
+The Quicksort algorithm is an efficient sorting algorithm that employs a divide-and-conquer strategy. This implementation uses OpenMP to parallelize the sorting process, allowing multiple threads to work on different segments of the array simultaneously.
 
 ### Features
 - Implements the Quicksort algorithm using a partitioning method.
