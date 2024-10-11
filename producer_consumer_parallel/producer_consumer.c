@@ -8,7 +8,7 @@
 
 /*
  * Define constants for how big the shared queue should be and how
- * much total work the produceers and consumers should perform
+ * much total work the producers and consumers should perform
  */
 
 #define QUEUESIZE 5
